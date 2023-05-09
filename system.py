@@ -46,7 +46,7 @@ def predict():
     
     # K-NN
     if radiobtn.get() == "0":
-        classifier = KNeighborsClassifier(n_neighbors = 7, metric = 'minkowski', p = 2)
+        classifier = KNeighborsClassifier(n_neighbors = 3, metric = 'minkowski', p = 2)
         classifier.fit(X_train, y_train)
         y_pred = classifier.predict(X_test)
         print(classification_report(y_test, y_pred, target_names=le.classes_))

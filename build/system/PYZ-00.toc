@@ -1,4 +1,4 @@
-('D:\\KULIAH\\Semester 6\\Big Data\\Tubes_Fix\\App\\build\\system\\PYZ-00.pyz',
+('D:\\KULIAH\\Semester 6\\Big Data\\Code\\App\\build\\system\\PYZ-00.pyz',
  [('IPython',
    'C:\\Users\\galih\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\IPython\\__init__.py',
    'PYMODULE'),
